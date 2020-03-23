@@ -1,0 +1,14 @@
+{
+  "name": "WebpackImportLoader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "build_p":  "NODE_ENV=production webpack",
+    "build_d":  "NODE_ENV=development webpack",
+    "server":   "NODE_ENV=development webpack-dev-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
